@@ -1,4 +1,4 @@
-Welcome to Jacobsz's documentation!
+Welcome to Beequery's documentation!
 ======================================
 
 Contents:

@@ -1,4 +1,4 @@
-* Jacobsz version:
+* Beequery version:
 * Batavia version:
 * Browser:
 * Operating system:
